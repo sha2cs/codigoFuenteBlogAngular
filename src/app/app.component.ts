@@ -9,5 +9,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'holaAngular';
+  title = 'Pini Express';
+  nombre = 'Halejandro';
+  edad = 37;
+  comida = 'Patacón con carne en bistec';
+  bebida = 'Jugo de Maracuyá';
 }
